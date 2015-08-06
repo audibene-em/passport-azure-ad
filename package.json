@@ -33,7 +33,7 @@
   "dependencies": {
     "passport": "*",
     "xml2js": "*",
-    "xml-crypto": "*",
+    "xml-crypto": "0.5.27",
     "xmldom": "*",
     "async": "*",
     "request": "*",
