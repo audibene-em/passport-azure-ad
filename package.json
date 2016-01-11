@@ -34,7 +34,7 @@
     "passport": "*",
     "xml2js": "*",
     "xml-crypto": "0.5.27",
-    "xmldom": "*",
+    "xmldom": "0.1.19",
     "async": "*",
     "request": "*",
     "underscore": "*",
